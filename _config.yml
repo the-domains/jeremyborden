@@ -1,0 +1,14 @@
+layout_spectrum: 0.1756176
+typography_spectrum: 0.6493018
+color:
+  saturation: 0.1405932
+  lightness: 0.4555279
+  brandStrength: 1
+  brandColors:
+    - '#192123'
+    - '#D6CACA'
+    - '#B0A8A6'
+    - '#6F6A67'
+    - '#EFE7E1'
+  rhythmicContrast: 0.601506
+name: JeremyBorden
